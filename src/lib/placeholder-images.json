@@ -1,3 +1,16 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Dark abstract tech background",
+      "imageUrl": "https://picsum.photos/seed/tech1/1200/800",
+      "imageHint": "abstract technology"
+    },
+    {
+      "id": "admin-avatar",
+      "description": "Professional avatar for admin",
+      "imageUrl": "https://picsum.photos/seed/admin/100/100",
+      "imageHint": "professional person"
+    }
+  ]
 }
